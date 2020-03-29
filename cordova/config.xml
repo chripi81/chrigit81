@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="chripi81.app1" version="0.1.0">
+  <name>app1</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="christian.pickert@gmx.at">
+    chripi81
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
