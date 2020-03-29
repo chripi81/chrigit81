@@ -8,5 +8,5 @@ contentView.append(
 );
 
 function showText() {
-  $(TextView).only().text = 'Tabris.js rocks, oh yeahhhhhhh!';
+  $(TextView).only().text = 'Tabris.js rocks, uuhhh yeahhhhhhh!';
 }
